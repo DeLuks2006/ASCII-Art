@@ -1,4 +1,4 @@
-# ASCII-art
+# ASCII-Art
 
 some ASCII art I made while I was bored.
 
